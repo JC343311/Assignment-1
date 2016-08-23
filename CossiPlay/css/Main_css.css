@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#background{
+	background-color:#000
+	}
+
+#banner{
+	text-align:center;
+	color: #F00;
+	font-style: italic;
+	font: Gadget;
+	background-color: #00F;
+	}
+	
+#header{
+	color: #0F0;
+	text-decoration: underline;
+	}
+	
+#nav_bar{
+	text-align: center;
+	margin: auto;
+	display: block;
+	color: #0F0;
+	}
+	
+#tr{
+	background-color:#666;
+	color:#0F0;
+	text-align: center;
+	}
+	
+#nav ul li a:active{
+	background-color: #999;
+	color:#0F0;
+	}
+	
+#nav ul li hover{
+	background-color: #CCC;
+	color: #0F0;
+	}
+
+#content{
+	color: #FFF;
+	font-family
+	}
+	
+#footer{
+	color: #0FF;
+	background-color:#090;
+	}
+	
