@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#background{
+	background-color:#000
+	}
+
+#container{
+	width:1080px;
+	margin: ayto;
+	margin: auto;
+	}
+
+#banner{
+	text-align:center;
+	color: #F00;
+	font-style: italic;
+	font: Gadget;
+	background-color: #00F;
+	}
+	
+#header{
+	color: #0F0;
+	text-decoration: underline;
+	}
+	
+#nav_bar{
+	text-align: center;
+	margin: auto;
+	display: block;
+	color: #0F0;
+	}
+	
+#tr{
+	background-color:#666;
+	color:#0F0;
+	text-align: center;
+	}
+
+#content{
+	color: #FFF;
+	text-align:justify;
+	}
+	
+#homepage_content{
+	color: #FFF;
+	text-align:center;
+	}
+	
+#footer{
+	color: #0FF;
+	background-color:#090;
+	}
+	
+.text_center {
+	text-align: center;
+}
