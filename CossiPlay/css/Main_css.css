@@ -6,6 +6,12 @@
 	background-color:#000
 	}
 
+#container{
+	width:1080px;
+	margin: ayto;
+	margin: auto;
+	}
+
 #banner{
 	text-align:center;
 	color: #F00;
@@ -31,20 +37,15 @@
 	color:#0F0;
 	text-align: center;
 	}
-	
-#nav ul li a:active{
-	background-color: #999;
-	color:#0F0;
-	}
-	
-#nav ul li hover{
-	background-color: #CCC;
-	color: #0F0;
-	}
 
 #content{
 	color: #FFF;
-	font-family
+	text-align:justify;
+	}
+	
+#homepage_content{
+	color: #FFF;
+	text-align:center;
 	}
 	
 #footer{
@@ -52,3 +53,6 @@
 	background-color:#090;
 	}
 	
+.text_center {
+	text-align: center;
+}
